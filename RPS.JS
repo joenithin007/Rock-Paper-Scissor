@@ -15,7 +15,7 @@ buttons.forEach((button) => {
     resultEl.textContent = result;
     
   });
-});
+}); 
 
 function computerPlay() {
   const choices = ["rock", "paper", "scissors"];
